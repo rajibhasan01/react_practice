@@ -6,4 +6,5 @@ Can View The Selected Candidate
 ## Available Scripts
 
 bootstrap
+
 fontawesome
